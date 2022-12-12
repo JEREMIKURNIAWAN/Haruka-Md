@@ -2,7 +2,7 @@
   "name": "Haruka-Md",
   "version": "9.0.1",
   "description": "whatsapp tob with multi device.",
-  "main": "npm i -g pm2 && pm2 start zeeone.js && pm2 save && pm2 logs",
+  "main": "npm i -g pm2 && pm2 start haruka.js && pm2 save && pm2 logs",
   "directories": {
     "lib": "lib"
   },
